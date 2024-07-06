@@ -1,0 +1,42 @@
+header{
+    display: flex;
+    
+}
+.firstclass{
+    background-color: greenyellow;
+    width: 100%;
+    height: 180px;
+    padding: 10px 10px;
+}
+main{
+    display: flex;
+    
+}
+.secondclass{
+    background-color: white;
+    width: 60%;
+    height: 350px;
+    padding: 10px 10px;
+}
+.thirdclass{
+    background-color: bisque;
+    width: 20%;
+    height: 350px;
+    padding: 10px 10px;
+}
+.fourthclass{
+    background-color: darkseagreen;
+    width: 20%;
+    height: 350px;
+    padding: 10px 10px;
+}
+footer{
+    display: flex;
+    
+}
+.fifthclass{
+    background-color: greenyellow;
+    width: 100%;
+    height: 200px;
+    padding: 10px 10px;
+}
